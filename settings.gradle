@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Modularization App"
 include ':app'
+include ':network'
